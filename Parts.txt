@@ -1,0 +1,6 @@
+p1	Nut	Red	12	london
+p2	bolt	green	17	paris
+p3	screw	blue	17	rome
+p4	screw	red	14	london
+p5	cam	Blue	12	paris
+p6	cog	red	19	london
